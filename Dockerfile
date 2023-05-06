@@ -1,6 +1,6 @@
 FROM telethonArab/Arab:slim-buster
 
-RUN git clone https://github.com/telethonArab/Arab.git /root/Arab
+RUN git clone https://github.com/KNOKLANRALI/rdod1.git /root/Arab
 
 WORKDIR /root/Arab
 
